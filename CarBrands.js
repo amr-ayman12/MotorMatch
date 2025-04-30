@@ -8,7 +8,7 @@ function bmwi8(){
 window.location.href ="";
 }
 function phantom(){
-window.location.href ="";
+window.location.href ="Rolls_Royce_phantom.html";
 }
 function ghost(){
 window.location.href ="";
@@ -47,16 +47,16 @@ function exige(){
 window.location.href ="Lotus_Exige.html";
 }
 function mc20(){
-window.location.href ="";
+window.location.href ="Maserati_MC20.html";
 }
 function gracabrio(){
-window.location.href ="";
+window.location.href ="Maserati_GranCabrio.html";
 }
 function granturismo(){
-window.location.href ="";
+window.location.href ="Maserati_GranTurismo.html";
 }
-function grecale(){
-window.location.href ="";
+function grecalefolgore(){
+window.location.href ="Maserati_Grecale_Folgore.HTML";
 }
 function RollsRoyceCullinan(){
 window.location.href ="Rolls_Royce.html";
